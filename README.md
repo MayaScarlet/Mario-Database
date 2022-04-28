@@ -1,2 +1,2 @@
 # Mario-Database
-Mario database project based on postgresql
+A PostgreSQL project as a part of the Relational Database course https://www.freecodecamp.org/learn/relational-database/
